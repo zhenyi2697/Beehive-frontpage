@@ -255,7 +255,7 @@ blockquote {
 .header h1.logo {
   margin-top: 0;
   margin-bottom: 0;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: bold;
   font-size: 28px;
   max-height: 50px;
