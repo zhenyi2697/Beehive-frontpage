@@ -862,11 +862,6 @@ blockquote {
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
 }
-.testimonials .press li a:hover img {
-  -webkit-opacity: 1;
-  -moz-opacity: 1;
-  opacity: 1;
-}
 /* ======= Contact Section ======= */
 .contact {
   background-color: #f8a842;
